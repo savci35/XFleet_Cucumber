@@ -1,2 +1,4 @@
-package com.xfleet.utilities;public class Driver {
+package com.xfleet.utilities;
+
+public class Driver {
 }
